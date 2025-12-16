@@ -23,10 +23,10 @@ This project focuses on analyzing retail sales data using Excel and Power BI to 
 ## 🖼 Dashboard Preview
 
 ### Excel Dashboard
-![Excel Dashboard](Screenshots/Screenshot_2025-12-16_142259.png)
+![Excel Dashboard]([Screenshots/Screenshot_2025-12-16_142259.png](https://github.com/canavaro33/sales-dashboard-analytics/blob/main/Screenshot/Screenshot%202025-12-16%20142159.png?raw=true))
 
 ### Power BI Dashboard
-![Power BI Dashboard](/Screenshot/Screenshot_2025-12-16_142159.png)
+![Power BI Dashboard]([/Screenshot/Screenshot_2025-12-16_142159.png](https://github.com/canavaro33/sales-dashboard-analytics/blob/main/Screenshot/Screenshot%202025-12-16%20142259.png?raw=true))
 
 ## 🔍 Insights Generated
 - Identified top-performing products
